@@ -1,6 +1,6 @@
 # AI-ML-Task-1
 
-# Titanic Dataset Cleaning and Preprocessing
+# Data Cleaning and Preprocessing
 
 ## Overview
 
